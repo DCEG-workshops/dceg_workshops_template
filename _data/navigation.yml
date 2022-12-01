@@ -1,0 +1,12 @@
+- name: Workshops
+  link: /workshops
+  dropdown:
+    - name: 'Workshop 1 title'
+      link: /workshops/workshop_1
+    - name: 'Workshop 2 title'
+      link: /workshops/workshop_2
+- name: Instructors
+  link: /instructors
+- name: News
+  link: /news
+
