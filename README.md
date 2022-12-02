@@ -32,6 +32,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpmcelderry/github_website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Testing locally
+
+It might be easier to install jekyll with bundle, to force updating this command can be used
+`bundle exec jekyll serve --force_polling --port <port_number>`
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
